@@ -1,5 +1,6 @@
 # NeIC2019
-Repurposing Climate Data - talk at NeIC 2019 Conference "Nordic Infrastructure for Open Science"
+
+[Repurposing Climate Data](https://cicero.xyz/v3/remark/0.14.0/github.com/NordicESMHub/NeIC2019/master/repurposing_climate.md) - talk at NeIC 2019 Conference "Nordic Infrastructure for Open Science"
 
 
 
