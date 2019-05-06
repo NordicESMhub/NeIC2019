@@ -12,7 +12,7 @@ layout: true
 
 <div id="footer-content">
   <p>
-   &nbsp; <img src="img/uio_logo.png" style="width: 50px;"/>
+   &nbsp; <img src="img/logo-uio.jpg" style="width: 50px;"/>
    &nbsp; <font color="black">University of Oslo, Norway</font>
   </p>
 </div>
