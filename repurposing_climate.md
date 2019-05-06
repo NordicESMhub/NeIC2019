@@ -8,7 +8,7 @@ class: center, middle
 
 layout: true
 
-.header-content[&nbsp;<font color="white">NeIC 2019</font>]
+.header-content[&nbsp;<font color="white">NeIC 2019 - Nordic Infrastructure for Open Science</font>]
 
 <div id="footer-content">
   <p>
